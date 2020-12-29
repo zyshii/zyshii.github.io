@@ -22,4 +22,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: githubpages
-          FOLDER: build
+          FOLDER: build 
